@@ -15,7 +15,7 @@ This project has multiple data search algorithms, Big O Notation, Dynamic progra
     2. PreOrder
     3. PostOrder
 *  Searching for the Minimum and Maximum Value
-* Big O nOTATIONS
+* Big O Notations
 * Dynamic Programming
 * Recursion
 * Binary Search
